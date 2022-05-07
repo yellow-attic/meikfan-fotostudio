@@ -1,4 +1,4 @@
-<model-viewer bounds="tight" enable-pan src="meikfan.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls poster="poster.webp" shadow-intensity="1.22" camera-orbit="-192.1deg 83.96deg auto" environment-image="neutral" auto-rotate>
+<model-viewer bounds="tight" enable-pan src="meikfan.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1.22" auto-rotate>
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
